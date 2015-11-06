@@ -63,15 +63,15 @@ else {
 
 
 <form class="" action="" method="post">
-  <textarea rows="4" cols="50" name="post"></textarea></br>
+  <textarea rows="4" cols="50" name="post" style="color:black"></textarea></br>
   CATEGORY :<select class="" name="category">
-    <optgroup label="news">
-      <option value="sportnews">Sport</option>
-      <option value="academic">Academic</option>
+    <optgroup label="news" style="color:black">
+      <option value="sportnews" style="color:black">Sport</option>
+      <option value="academic" style="color:black">Academic</option>
     </optgroup>
-    <optgroup label="article">
-      <option value="computer">Computer</option>
-      <option value="domestic">Domestic</option>
+    <optgroup label="article" style="color:black">
+      <option value="computer" style="color:black">Computer</option>
+      <option value="domestic" style="color:black">Domestic</option>
     </optgroup>
 
   </select>
